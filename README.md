@@ -1,1 +1,1 @@
-SUGANYA-SQL-Practice
+20BM052-SUGANYA-SQL-Practice
